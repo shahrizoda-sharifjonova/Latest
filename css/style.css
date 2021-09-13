@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.hero{
+    background-image: linear-gradient(#c847f1, #380231);
+}
+.logo{
+    font-family: "indie flower";
+    color: #fff;
+    font-size: 50px;
+    margin: 20px 80px;
+    display: inline-block;
+}
+.top-button{
+    float: right;
+    margin: 30px;
+}
+.top-button a{
+    margin: 0 8px;
+    padding: 8px 20px;
+    border-radius: 50px;
+    background: #fff;
+    color: #333;
+    text-decoration: none;
+    border: 2px solid #fff;
+    transition: 0.5s;
+}
+.top-button .login__btn{
+    background: transparent;
+    color: #fff;
+}
+.top-button a:hover{
+    background: #fff;
+    color: #333;
+}
+.col-md-6 h1 {
+    color: #fff;
+    font-size: 65px;    
+    font-weight: bold;
+    margin-top: 12px;
+    letter-spacing: 3px;
+}
+.hero p{
+    color: #fff;
+}
+.container{
+    margin-top: 8%;
+}
+.start-btn{
+    background: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    width: 140px;
+    height: 40px;
+    margin-top: 10px;
+    border-radius: 50px;
+    transition: 0.5s;
+}
+.start-btn:hover{
+    background: #fff;
+    color: #333;
+}
+.home-img{
+    margin-left: 130px;
+}
+.home-img img{
+    width: 85%;
+    max-width: 350px;
+    margin: -15px -15px 0 0;
+  
+}
+.influencres{
+    padding: 30px 0;
+    background: #efefef;
+}
+.influencres h1{
+    margin: 60px 0;
+    color: #555;
+    font-size: 30px;
+}
+.person-img{
+    height: 400px;
+}
+.person-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.person-details{
+    background: #fff;
+    padding: 10px 0 1px;
+    margin-bottom: 15px;
+}
+
+.profile{
+    padding: 30px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
