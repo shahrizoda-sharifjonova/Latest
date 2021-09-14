@@ -121,8 +121,65 @@
 .followers span{
     display: inline-block;
     color: #c200ff;
-    margin: 35px 20px;
+    margin: 35px 20px 35px 0;
 }
+
+.profile-details h5,p{
+    color: #555;
+}
+
+.btn-follow{
+    background: #c200ff;
+    border: none;
+    color: #fff;
+    width: 130px;
+    height: 40px;
+    margin-top: 40px;
+    margin-bottom: 14px;
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.profile-img{
+    text-align: center;
+}
+
+.profile-img img{
+    width: 84%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
