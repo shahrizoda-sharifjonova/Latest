@@ -42,15 +42,16 @@
     color: #fff;
     font-size: 65px;    
     font-weight: bold;
-    margin-top: 12px;
     letter-spacing: 3px;
 }
 .hero p{
     color: #fff;
 }
-.container{
+
+.hero .container{
     margin-top: 8%;
 }
+
 .start-btn{
     background: transparent;
     border: 2px solid #fff;
@@ -99,6 +100,28 @@
 
 .profile{
     padding: 30px 0;
+    background-image: linear-gradient(#c847f1, #380231);
+}
+
+.profile-card{
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0px 2px 40px 0 rgba(17, 39, 125, 0.18);
+}
+
+.profile-details{
+    padding: 40px;
+}
+
+.profile-details h3{
+    color: #c200ff;
+    margin-bottom: 35px;
+}
+
+.followers span{
+    display: inline-block;
+    color: #c200ff;
+    margin: 35px 20px;
 }
 
 
